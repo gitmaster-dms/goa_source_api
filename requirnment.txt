@@ -1,0 +1,14 @@
+annotated-types
+anyio
+asgiref
+Django
+fastapi
+idna
+pydantic
+pydantic_core
+sniffio
+sqlparse
+starlette
+typing-inspection
+typing_extensions
+tzdata
